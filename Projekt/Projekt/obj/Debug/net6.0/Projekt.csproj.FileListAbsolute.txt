@@ -1,0 +1,15 @@
+E:\C Sharp Projects\Lab\Projekt\Projekt\bin\Debug\net6.0\Projekt.exe
+E:\C Sharp Projects\Lab\Projekt\Projekt\bin\Debug\net6.0\Projekt.deps.json
+E:\C Sharp Projects\Lab\Projekt\Projekt\bin\Debug\net6.0\Projekt.runtimeconfig.json
+E:\C Sharp Projects\Lab\Projekt\Projekt\bin\Debug\net6.0\Projekt.dll
+E:\C Sharp Projects\Lab\Projekt\Projekt\bin\Debug\net6.0\Projekt.pdb
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.AssemblyReference.cache
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.GeneratedMSBuildEditorConfig.editorconfig
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfoInputs.cache
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.AssemblyInfo.cs
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.csproj.CoreCompileInputs.cache
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.dll
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\refint\Projekt.dll
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.pdb
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\Projekt.genruntimeconfig.cache
+E:\C Sharp Projects\Lab\Projekt\Projekt\obj\Debug\net6.0\ref\Projekt.dll

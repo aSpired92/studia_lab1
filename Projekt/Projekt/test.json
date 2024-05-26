@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 0,
+    "Nazwa": "vsjdfsdkjhfasdijhf",
+    "Opis": "asdasfgaf",
+    "DataDodania": "2024-05-22T13:15:46.7060625+02:00",
+    "DataZakonczenia": null
+  },
+  {
+    "Id": 1,
+    "Nazwa": "kjhfasdijhf",
+    "Opis": "asdasfhkhkl;jklgaf",
+    "DataDodania": "2024-05-22T13:15:46.7120049+02:00",
+    "DataZakonczenia": null
+  },
+  {
+    "Id": 2,
+    "Nazwa": "vsjdfsdkf",
+    "Opis": "fgaf",
+    "DataDodania": "2024-05-22T13:15:46.7120073+02:00",
+    "DataZakonczenia": null
+  }
+]
